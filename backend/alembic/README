@@ -1,0 +1,9 @@
+# Создать папку versions в директории alembic
+`cd alembic`
+`mkdir versions`
+
+# Создание миграций
+`alembic revision --autogenerate -m <Название миграции.>`
+
+# Применение миграций
+`alembic upgrade head`
