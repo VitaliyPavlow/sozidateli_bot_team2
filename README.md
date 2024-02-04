@@ -21,6 +21,8 @@
 
 * aiohttp
 
+* docker
+
 # Установка
 
 1. Клонировать репозиторий: `git@github.com:VitaliyPavlow/sozidateli_bot_team2.git`
